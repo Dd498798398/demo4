@@ -11,6 +11,7 @@ public class User {
 
     public User() {
         System.out.println("User()");
+        System.out.println("123");
     }
 
     private Student student;
