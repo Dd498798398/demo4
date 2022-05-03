@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 public class Student {
 
     public Student() {
-        System.out.println("Student()");
+        System.out.println("Student(mac)");
     }
 
     private User user;
