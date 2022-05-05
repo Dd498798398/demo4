@@ -6,6 +6,6 @@ package com.example.demo.vo;
  */
 public class D {
     public static void main(String[] args) {
-
+        System.out.println("aaa");
     }
 }
