@@ -13,5 +13,6 @@ public class Test {
         System.out.println(user);
         Object student = context.getBean("student", Student.class);
         System.out.println(student);
+        System.out.println("123");
     }
 }
